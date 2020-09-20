@@ -6,4 +6,6 @@
 
 ✬ Ranging from simple assignments to more complex  
 
-✬ Will attempt to organize and add more 
+✬ Will attempt to organize and add more  
+
+✬ Run these in [here](https://repl.it/)
